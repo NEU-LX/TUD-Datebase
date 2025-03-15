@@ -27,3 +27,15 @@ To reduce data bias, it is recommended that users perform K-fold cross validatio
 The data can be obtained from here: 
 link：https://pan.baidu.com/s/1AfmVMjZvhcj_9yGkTrsgiA?pwd=qwer 
 code：qwer
+
+
+@article{li2024thyroid,
+  title={Thyroid Ultrasound Image Database and Marker Mask Inpainting Method for Research and Development},
+  author={Li, Xiang and Fu, Chong and Xu, Sen and Sham, Chiu-Wing},
+  journal={Ultrasound in Medicine \& Biology},
+  volume={50},
+  number={4},
+  pages={509--519},
+  year={2024},
+  publisher={Elsevier}
+}
